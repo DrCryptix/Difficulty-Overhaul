@@ -1,0 +1,13 @@
+{
+    "name" : "Difficulty Overhaul",
+    "description" : "Difficulty tweaks for Payday 2",
+    "author" : "DrCryptix",
+    "contact" : "N/A",
+    "version" : "1.0"
+}
+"hooks" : [
+    {   
+        "hook_id" : "lib/entry",
+        "script_path" : "core/pre/init.lua"
+    }
+]
